@@ -1,5 +1,6 @@
 
-![fitness-app](https://github.com/user-attachments/assets/cfd5a40f-bc69-44b6-8710-797c7f2cad27)
+https://github.com/user-attachments/assets/e1129f30-dc6f-499e-ba8f-6441376cdb04
+
 
 
 # Welcome to your Expo app 👋
